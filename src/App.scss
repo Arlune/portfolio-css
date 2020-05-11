@@ -1,0 +1,17 @@
+.meter {
+  top: 60px;
+  width: 60%;
+  margin: auto auto;
+
+  .buttons-container {
+    padding-top: 20px;
+    display: flex;
+    width: 20px;
+    margin: auto auto;
+
+    button {
+      margin-right: 5px;
+      padding: 3px 6px;
+    }
+  }
+}
